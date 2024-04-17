@@ -2,9 +2,9 @@
   padding: 0;
   margin: 0;
   height: 100vh;
-  background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1024" viewBox="0 0 720 1024" fill="none"><path d="M0 0L719.988 0L569.314 1024H0V0Z" fill="%23605BFF"/></svg>');
+  /* background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1024" viewBox="0 0 720 1024" fill="none"><path d="M0 0L719.988 0L569.314 1024H0V0Z" fill="%23605BFF"/></svg>');
   background-size: auto 100%;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 
 .login-logo {
@@ -22,7 +22,7 @@
 }
 
 .login-right {
-  width: 50vw;
+  /* width: 50vw; */
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -30,7 +30,7 @@
 }
 
 .login-company {
-  color: #fff;
+  color: #4b48cc;
   font-family: Montserrat;
   font-size: 72px;
   font-style: normal;
